@@ -9,7 +9,8 @@
 
 ## Hamburg
 
-| Name | Location | Sector | Languages |
-| :--- | :------- | :----- | :-------- |
-| [Digitec GmbH](https://digitec.de)| Hamburg | Finance (FX Trading) | [Scala](https://digitec.de/wp-content/uploads/2019/04/Software-Engineer-Scala-Englisch-Deutsch.pdf)|
-| [Secucloud Network GmbH](https://www.secucloud.com) | Hamburg | Cloud platform | [Haskell](https://www.secucloud.com/files/carreer/en/20181216_Developer_Senior_EN.pdf) |
+| Name | Sector | Languages |
+| :--- | :----- | :-------- |
+| [Digitec GmbH](https://digitec.de)| Finance (FX Trading) | [Scala](https://digitec.de/wp-content/uploads/2019/04/Software-Engineer-Scala-Englisch-Deutsch.pdf)|
+| [Risk.Ident GmbH](https://riskident.com/de/) | Fraud prevention | [Scala](https://riskident-jobs.personio.de/job/82369) |
+| [Secucloud Network GmbH](https://www.secucloud.com) | Cloud platform | [Haskell](https://www.secucloud.com/files/carreer/en/20181216_Developer_Senior_EN.pdf) |
