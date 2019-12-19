@@ -6,6 +6,7 @@
 | :--- | :------- | :----- | :-------- |
 | [Cap3 GmbH](https://www.cap3.de) | Kiel | Custom software | [Scala](https://www.cap3.de/projekte/panel-app) |
 | [lambda9 GmbH](https://www.lambda9.de) | Flensburg | Custom software | [Haskell, Elm](https://lambda9.de/software/technologien) |
+| [naymspace software GmbH & Co. KG](https://www.naymspace.de) | Kiel | Custom software | [Elm, elixir](https://www.naymspace.de/software/) |
 
 ## Hamburg
 
