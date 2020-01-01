@@ -28,4 +28,5 @@
 | Name | Sector | Languages |
 | :--- | :----- | :-------- |
 | [CTS EVENTIM AG & Co. KGaA](https://www.eventim.de/city/hamburg-7/) | Ticket sales | Scala |
+| [D2iQ, Inc](https://d2iq.com) | Cloud services | Scala, Erlang | 
 | [Eppendorf AG](https://www.eppendorf.com/OC-en/) | Clinical instruments | Scala |
