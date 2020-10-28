@@ -1,4 +1,7 @@
-# A list of companies in Schleswig-Holstein and Hamburg, that use functional programming
+# Companies in Schleswig-Holstein and Hamburg, that use functional programming
+
+**If you know companies in Schleswig-Holstein or Hamburg that use functional programming, please open a pull request!**
+
 
 ## Schleswig-Holstein
 
