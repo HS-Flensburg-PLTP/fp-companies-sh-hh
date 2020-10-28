@@ -14,7 +14,7 @@
 | :--- | :----- | :-------- |
 | [Digitec GmbH](https://digitec.de)| Finance (FX Trading) | [Scala](https://digitec.de/wp-content/uploads/2019/04/Software-Engineer-Scala-Englisch-Deutsch.pdf)|
 | [EOS Deutschland GmbH](https://eos-deutschland.de/) | Debt collection | [Scala](https://www.stepstone.de/stellenangebote--Senior-Java-Developer-m-w-d-Hamburg-EOS-Technology-Solutions-GmbH--5761712-inline.html) |
-| [Hermes Germany GmbH](https://www.hermesworld.com/) | Logistics | [Scala](https://job.otto.de/otto/or_publication/default/html/03018543) |
+| [Hermes Germany GmbH](https://www.hermesworld.com/) | Logistics | [Scala](https://job.otto.de/otto/or_publication/default/html/03027677) |
 | [inoio gmbh](https://inoio.de) | Custom software | [Scala](https://inoio.de/work/) |
 | [Mercury Media Technology GmbH](https://getmercury.io) | Media management | [Elm, Elixir](https://getmercury.softgarden.io/job/5605642/Full-stack-Web-Developer?jobDbPVId=15333372&l=en) |
 | [MOIA GmbH](https://www.moia.io) | Personal Transport | [Scala](https://www.moia.io/en/jobs) |
