@@ -10,6 +10,7 @@
 | [Cap3 GmbH](https://www.cap3.de) | Kiel | Custom software | [Scala](https://www.cap3.de/projekte/panel-app) |
 | [lambda9 GmbH](https://www.lambda9.de) | Flensburg | Custom software | [Haskell, Elm](https://lambda9.de/software/technologien) |
 | [naymspace software GmbH & Co. KG](https://www.naymspace.de) | Kiel | Custom software | [Elm, Elixir](https://www.naymspace.de/software/) |
+| [Sourceboat GmbH & Co. KG](https://www.sourceboat.com) | Flensburg | Custom software | [Elixir](https://sourceboat.com/work/) |
 
 ## Hamburg
 
